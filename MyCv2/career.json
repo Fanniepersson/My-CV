@@ -1,0 +1,28 @@
+[
+    {
+        "company": "Briscapo",
+        "workRole": "Warehouse worker",
+        "dateOfEmployement": 2015 
+    },
+    {
+        "company": "Exertis Captech",
+        "workRole":"Warehouse worker",
+        "dateOfEmployement": 2018
+    },
+    {
+        "company": "Center Hotel",
+        "workRole": "Hotel receptionist",
+        "dateOfEmployement": 2018
+    },
+    {
+        "company": "Chill Factory",
+        "workRole": "Barista",
+        "dateOfEmployement": 2020
+    },
+    {
+        "company": "HMS",
+        "workRole": "Production operator",
+        "dateOfEmployement": 2021
+    }
+       
+]    
